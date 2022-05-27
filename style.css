@@ -1,0 +1,63 @@
+header h1.title{
+    text-align: center;
+}
+header h4.desc{
+  text-align: center; 
+}
+body {
+    width: 90%; 
+    margin: auto;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: yellow;
+}
+a:active {
+  color: yellow;
+}
+#navigation 
+p {
+  font-size: 110%;
+  color: white;
+}
+#contents {
+    float: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  font-family: serif;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 135px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: white;
+}
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+body{
+  background-color: rgb(223, 223, 223);
+	color: black;
+    font-family: serif;
+}
